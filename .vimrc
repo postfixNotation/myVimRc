@@ -63,10 +63,10 @@ set ffs=unix,dos,mac
 set noexpandtab
 " Be smart when using tabs ;)
 set smarttab
-" 1 tab == 2 spaces
-set shiftwidth=2
-set tabstop=2
-set softtabstop=2
+" 1 tab == 3 spaces
+set shiftwidth=3
+set tabstop=3
+set softtabstop=3
 set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
